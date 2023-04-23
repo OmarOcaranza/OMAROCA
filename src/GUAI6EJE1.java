@@ -23,6 +23,7 @@ public class libro {
     private String ISBN;
     private String titulo;
     private String autor;
+    private String autor1;
     private int numPaginas;
     
     public libro() {
